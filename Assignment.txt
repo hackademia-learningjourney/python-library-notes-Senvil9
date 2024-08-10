@@ -1,0 +1,32 @@
+
+Pandas
+An efficient and fast dataframe object that helps on manipulating data with integrated indexing
+It is built for doing pratical data analaysis in Python. It is most powerful and open source for data manipulation.
+Python with pandas are used in various field such as finance,statistics,economics and so on.
+
+Numphy
+It helps on bringing computational power of C language to python which is much easier to learn and utilize them.
+It provides clear and elegant information or solutions. This tools provides siplicity with whole power packed
+It is used in quantum computing, statistical computing, image processing and many more.
+
+TensorFlow
+It helps to built differnet models for various tasks that includes image recognition, natural language processing, and different computational simulation for equations.
+It guides to process effective practices for data automation, performance monitoring and model retraining.
+It makes easier to create machine learning which could run in any environment.
+
+Keras
+Designed for human beings. helps on reducing cognitive loads.
+It minimizes the action done by user for common use cases and it gives clear and actionable error messages.
+
+Pytorch
+It is fully framework for creating deep learning models such as image recognition and language processing.
+Similar to TensorFlow but both have special advantages.
+It is an open source platform for Maching Learning to create deep neural networks.
+Easy to use and flexibility
+
+Sklearn
+This library has various efficient tools for Machine learning and statistical modeling that include regression, classification, clustering and so on.
+tools that can be used for data analaysis
+accessible to everyone. built on Numphy
+Open source and commerical usable.
+
